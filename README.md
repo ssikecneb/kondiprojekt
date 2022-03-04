@@ -1,0 +1,2 @@
+# kondiprojekt
+ iskolai projekt
