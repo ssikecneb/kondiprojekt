@@ -8,3 +8,4 @@ megint módosítás
 igen
 nem
 de
+nem
