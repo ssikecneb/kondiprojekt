@@ -12,3 +12,4 @@ nem
 kuss már
 asd
 bruh
+hurb
