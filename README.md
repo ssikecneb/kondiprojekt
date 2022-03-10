@@ -9,3 +9,4 @@ igen
 nem
 de
 nem
+kuss már
