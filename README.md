@@ -11,3 +11,4 @@ de
 nem
 kuss már
 asd
+bruh
