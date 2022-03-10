@@ -6,3 +6,4 @@ Csako
 Napot
 megint módosítás
 igen
+nem
